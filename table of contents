@@ -15,10 +15,10 @@ Section 1: Introduction
 Section 2: Handling the Challenges 
 Scope of Section: One chapter each addressing the challenges identified in Chapter 1.4 
   Chapter 2.1: AI in the presence of poor Network Connectivity (Lead: Dinesh Verma) 
-  Chapter 2.2: AI with limited compute infrastructure (Lead: Mathews Thomas) 
+  Chapter 2.2: AI with limited compute infrastructure (Lead: Mathews Thomas, Ryan Coffee) 
   Chapter 2.3: Security and Trust Issues in AI (Lead Sanjay Aiyagiri, Ryan Coffee) 
   Chapter 2.4: Data Collection and Curation in AI (Lead: Sheeba Prakash) 
-  Chapter 2.5: Repurposing existing AI Solutions to address Sustainability (Lead: Ryan Coffee,Andy Poling) 
+  Chapter 2.5: Repurposing existing AI Solutions to address Sustainability (Lead: Andy Poling) 
   Chapter 2.6: Implications of Poor Physical Infrastructure (Power Outages, Disruption of systems, ) on AI solutions. (TBD)
 
 Section 3: AI for Sustainability  
